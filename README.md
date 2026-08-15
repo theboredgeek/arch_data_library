@@ -4,5 +4,5 @@
 - Updated via Obsidian and neovim.
 
 What is in this repo:
-	- pacman commands
-	- yay commands
+- pacman commands
+- yay commands
