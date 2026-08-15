@@ -3,6 +3,6 @@
 - (This is a work in progress, updated when I need to and/or don't want to forget a tool or command).
 - Updated via Obsidian and neovim.
 
-What is in this repo:
+What is in this repo so far:
 - pacman commands
 - yay commands
